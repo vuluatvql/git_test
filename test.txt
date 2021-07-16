@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-local master
-=======
-test content in branch dev
->>>>>>> dev
+dev in remote edit
