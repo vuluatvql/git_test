@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Content test in master
-=======
-Content test in Dev
->>>>>>> dev
+local master
