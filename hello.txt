@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Edit Hello in master
 Edit hello in dev
+=======
+Hello in dev edit
+hello in dev
+>>>>>>> dev
