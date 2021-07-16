@@ -1,6 +1,1 @@
-Xin chao the gioi
-Xin chao ae
-Xin chao the gioi cua toi
-Xin chao anh em
-Xin chao the tinh yeu cua toi
-Xin chao em you
+Hello in master
