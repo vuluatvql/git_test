@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test in master
-=======
-test in dev
->>>>>>> Dev edit test
+Content test in master
